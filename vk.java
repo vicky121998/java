@@ -10,10 +10,10 @@ import java.util.Scanner;
 		Scanner v=new Scanner(System.in);
 		int n=v.nextInt();
 		if(n>0)
-		System.out.printf("Positve");
+		System.out.println("Positve");
 		else if(n==0)
-		System.out.printf("Zero");
+		System.out.println("Zero");
 		else
-		System.out.printf("Negative");
+		System.out.println("Negative");
 	}
 }
