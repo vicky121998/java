@@ -16,7 +16,6 @@ class vk
 				c++;
 			}
 		}
-		c=c+1;
 		System.out.println(c);
 	}
 }
